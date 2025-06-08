@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋🏾 Hey, I'm Kidus Bizuneh
 
-<!--
-**kidus1234b/kidus1234b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *"ሁልጊዜ በጌታ ደስ ይበላችሁ፤ ደግሜ እላለሁ ደስ ይበላችሁ!"*  
+> _– Philippians 4:4_
 
-Here are some ideas to get you started:
+I'm a high school student at **Negele Arsi Model Secondary School**, slowly cooking my way into the world of **Data Science** — one line of code, one idea, one purpose at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+![Profile Views](https://komarev.com/ghpvc/?username=kidus1234b&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/kidus1234b?label=Followers&style=social)
+
+- 🌍 Ethiopian by blood, Data Scientist by choice
+- 💻 Python is my paintbrush; data is my canvas
+- 📚 Self-taught with hustle – freeCodeCamp & Udemy alum
+- ✨ Believer in code with purpose — **building tools that set people free**
+
+---
+
+### 🧠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=Jupyter&logoColor=white&style=flat)
+
+---
+
+### 📜 Certifications
+
+| 🏅 Certificate | 🏫 Issuer | 📅 Year | 🔗 Link |
+|---------------|-----------|--------|--------|
+| [**Python Certification**](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) | freeCodeCamp | 2024 | [View](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) |
+| [**Python for Data Science and Machine Learning Bootcamp**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
+| [**Data Science A-Z™: Real-Life Data Science Exercises Included**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
+| [**Machine Learning & Deep Learning in Python & R**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
+
+> These aren’t just digital badges. They’re battle scars from late nights, debugged dreams, and “aha” moments.
+
+---
+
+### 📺 Interests
+
+- 💬 Anime nerd (Shoutout to the Survey Corps)
+- 📖 Sci-fi dreamer — where data meets destiny
+- 🧠 Philosophy meets algorithms: always questioning, always building
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kidus1234b&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kidus1234b&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidus1234b&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+- 🌐 Portfolio: [Coming Soon]()
+- 🐦 Twitter: [@yourhandle]()
+- 📬 Email: kidusbizuneh4@proton.me 
+
+---
+
+### ✍🏾 Signature Thought
+
+> _"Not just writing code — I'm writing freedom into every dataset."_  
+> — **Kidus Bizuneh**
