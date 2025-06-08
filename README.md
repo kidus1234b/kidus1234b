@@ -9,7 +9,7 @@
 
 
 
-I'm a high school student at **Negele Arsi Model Secondary School**, slowly cooking my way into the world of **Data Science** — one line of code, one idea, one purpose at a time.
+I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooking my way into the world of **Data Science** — one line of code, one idea, one purpose at a time.
 
 ---
 
