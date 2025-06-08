@@ -4,7 +4,7 @@
 > _– Philippians 4:4_
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" alt="Anime coding hacker vibe"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3B5cDlsM2dyb3piZGhmZnMyYTlrMHVyNDUzYWtkdTZkazR3a2NraiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" width="500" alt="Anime coding hacker vibe"/>
 </p>
 
 
