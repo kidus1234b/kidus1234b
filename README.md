@@ -3,6 +3,12 @@
 > *"ሁልጊዜ በጌታ ደስ ይበላችሁ፤ ደግሜ እላለሁ ደስ ይበላችሁ!"*  
 > _– Philippians 4:4_
 
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" alt="Anime coding hacker vibe"/>
+</p>
+
+
+
 I'm a high school student at **Negele Arsi Model Secondary School**, slowly cooking my way into the world of **Data Science** — one line of code, one idea, one purpose at a time.
 
 ---
