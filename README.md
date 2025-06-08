@@ -34,7 +34,7 @@ I'm a high school student at **Negele Arsi Model Secondary School**, slowly cook
 
 | 🏅 Certificate | 🏫 Issuer | 📅 Year | 🔗 Link |
 |---------------|-----------|--------|--------|
-| [**Python Certification**](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) | freeCodeCamp | 2024 | [View](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) |
+| [**Python Certification**](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) | freeCodeCamp | 2023 | [View](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) |
 | [**Python for Data Science and Machine Learning Bootcamp**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
 | [**Data Science A-Z™: Real-Life Data Science Exercises Included**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
 | [**Machine Learning & Deep Learning in Python & R**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
