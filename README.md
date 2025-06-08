@@ -51,7 +51,7 @@ I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooki
 
 ### 📺 Interests
 
-- 💬 Anime nerd (Shoutout to the Survey Corps)
+- 💬 Anime nerd
 - 📖 Sci-fi dreamer — where data meets destiny
 - 🧠 Philosophy meets algorithms: always questioning, always building
 
