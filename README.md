@@ -72,7 +72,7 @@ I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooki
 ### 🤝 Connect With Me
 
 - 🌐 Portfolio: [Coming Soon]()
-- 🐦 Twitter: [@yourhandle]()
+- 🐦 Twitter: [@yourhandle]
 - 📬 Email: kidusbizuneh4@proton.me 
 
 ---
