@@ -79,5 +79,5 @@ I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooki
 
 ### ✍🏾 Signature Thought
 
-> _"Not just writing code — I'm writing freedom into every dataset."_  
+> _"Not just writing code — I'm writing freedom into every dataset."_   
 > — **Kidus Bizuneh**
