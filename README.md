@@ -41,7 +41,7 @@ I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooki
 | 🏅 Certificate | 🏫 Issuer | 📅 Year | 🔗 Link |
 |---------------|-----------|--------|--------|
 | [**Python Certification**](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) | freeCodeCamp | 2023 | [View](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) |
-| [**Python 101 for Data Science**](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) | Udemy | 2024 | [View](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) |
+| [**Python 101 for Data Science**](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) | Cognitive Class | 2025 | [View](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) |
 | [**Data Science A-Z™: Real-Life Data Science Exercises Included**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
 | [**Machine Learning & Deep Learning in Python & R**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
 
