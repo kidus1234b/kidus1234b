@@ -42,7 +42,7 @@ I'm a high school student at **Kuyera Adventist Secondary School**, slowly cooki
 |---------------|-----------|--------|--------|
 | [**Python Certification**](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) | freeCodeCamp | 2023 | [View](<https://freecodecamp.org/certification/fcc87dfe9b1-4f0d-4a58-bf93-82c9257dd031/scientific-computing-with-python-v7>) |
 | [**Python 101 for Data Science**](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) | Cognitive Class | 2025 | [View](https://courses.cognitiveclass.ai/certificates/b9751c52da074c2fa2c8890e37e5183d) |
-| [**Data Science A-Z™: Real-Life Data Science Exercises Included**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
+| [** NumPy, SciPy, Matplotlib & Pandas A-Z: Machine Learning **](https://www.udemy.com/certificate/UC-11d15f2d-61a1-4ce1-b804-a4322df3e860/) | Udemy | 2024 | [View](https://www.udemy.com/certificate/UC-11d15f2d-61a1-4ce1-b804-a4322df3e860/) |
 | [**Machine Learning & Deep Learning in Python & R**](<insert-link-here>) | Udemy | 2024 | [View](<insert-link-here>) |
 
 > These aren’t just digital badges. They’re battle scars from late nights, debugged dreams, and “aha” moments.
